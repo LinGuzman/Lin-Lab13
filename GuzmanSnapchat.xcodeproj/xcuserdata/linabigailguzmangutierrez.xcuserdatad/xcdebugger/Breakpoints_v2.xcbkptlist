@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C05DB4A6-466F-464B-830E-F488905568E8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "SnapsViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E - 7b98e35498005aa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuzmanSnapchat.SnapsViewController.tablaSnaps.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "GuzmanSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linabigailguzmangutierrez/Downloads/GuzmanSnapchat-main/GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E - 229b7b6d12460eae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuzmanSnapchat.SnapsViewController.tablaSnaps.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "GuzmanSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linabigailguzmangutierrez/Downloads/GuzmanSnapchat-main/GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E - 8d2de3cca03bc79d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuzmanSnapchat.SnapsViewController.tablaSnaps.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "GuzmanSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linabigailguzmangutierrez/Downloads/GuzmanSnapchat-main/GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E - b980334f3d288fb9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuzmanSnapchat.SnapsViewController.tablaSnaps.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "GuzmanSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linabigailguzmangutierrez/Downloads/GuzmanSnapchat-main/GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E - 2c60aaea64360684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuzmanSnapchat.SnapsViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; GuzmanSnapchat.SnapsViewController"
+                  moduleName = "GuzmanSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linabigailguzmangutierrez/Downloads/GuzmanSnapchat-main/GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "F872AB23-847E-45CD-A1B5-9DE7E610056E - 76f935d69f9f9737"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GuzmanSnapchat.SnapsViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;GuzmanSnapchat.SnapsViewController&gt;"
+                  moduleName = "GuzmanSnapchat"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/linabigailguzmangutierrez/Downloads/GuzmanSnapchat-main/GuzmanSnapchat/ViewControllers/SnapsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "137">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
